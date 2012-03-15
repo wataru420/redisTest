@@ -1,0 +1,68 @@
+[0m[[0minfo[0m] [0mRunning Main RedisRead[0m
+[0m[[0mdebug[0m] [0mStarting sandboxed run...[0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/Users/fukunaga_wataru/Documents/scala/redisTest/target/scala-2.9.1/classes[0m
+[0m[[0mdebug[0m] [0m	/Users/fukunaga_wataru/.sbt/boot/scala-2.9.1/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/fukunaga_wataru/.ivy2/cache/net.debasishg/redisclient_2.9.1/jars/redisclient_2.9.1-2.4.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/fukunaga_wataru/.ivy2/cache/commons-pool/commons-pool/jars/commons-pool-1.5.6.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/fukunaga_wataru/.ivy2/cache/org.slf4j/slf4j-log4j12/jars/slf4j-log4j12-1.6.4.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/fukunaga_wataru/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.6.4.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/fukunaga_wataru/.ivy2/cache/log4j/log4j/bundles/log4j-1.2.16.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/fukunaga_wataru/.ivy2/cache/net.sf.opencsv/opencsv/jars/opencsv-2.3.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/fukunaga_wataru/.ivy2/cache/se.scalablesolutions.akka/akka-actor/jars/akka-actor-1.2.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/fukunaga_wataru/.ivy2/cache/se.scalablesolutions.akka/akka-remote/jars/akka-remote-1.2.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/fukunaga_wataru/.ivy2/cache/commons-codec/commons-codec/jars/commons-codec-1.4.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/fukunaga_wataru/.ivy2/cache/voldemort.store.compress/h2-lzf/jars/h2-lzf-1.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/fukunaga_wataru/.ivy2/cache/org.codehaus.jackson/jackson-mapper-asl/jars/jackson-mapper-asl-1.8.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/fukunaga_wataru/.ivy2/cache/org.codehaus.jackson/jackson-core-asl/jars/jackson-core-asl-1.8.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/fukunaga_wataru/.ivy2/cache/org.jboss.netty/netty/bundles/netty-3.2.5.Final.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/fukunaga_wataru/.ivy2/cache/org.guiceyfruit/guice-all/jars/guice-all-2.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/fukunaga_wataru/.ivy2/cache/com.google.protobuf/protobuf-java/jars/protobuf-java-2.4.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/fukunaga_wataru/.ivy2/cache/commons-io/commons-io/jars/commons-io-2.0.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/fukunaga_wataru/.ivy2/cache/net.debasishg/sjson_2.9.0/jars/sjson_2.9.0-0.11.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/fukunaga_wataru/.ivy2/cache/net.databinder/dispatch-json_2.9.0/jars/dispatch-json_2.9.0-0.8.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/fukunaga_wataru/.ivy2/cache/org.objenesis/objenesis/jars/objenesis-1.2.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/fukunaga_wataru/.ivy2/cache/se.scalablesolutions.akka/akka-typed-actor/jars/akka-typed-actor-1.2.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/fukunaga_wataru/.ivy2/cache/org.codehaus.aspectwerkz/aspectwerkz/jars/aspectwerkz-2.2.3.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/fukunaga_wataru/.ivy2/cache/aopalliance/aopalliance/jars/aopalliance-1.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/fukunaga_wataru/.ivy2/cache/se.scalablesolutions.akka/akka-stm/jars/akka-stm-1.2.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/fukunaga_wataru/.ivy2/cache/org.multiverse/multiverse-alpha/jars/multiverse-alpha-0.6.2.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/fukunaga_wataru/.ivy2/cache/mysql/mysql-connector-java/jars/mysql-connector-java-5.1.18.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main to exit[0m
+[0m[[0mdebug[0m] [0m	Thread run-main exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread akka:event-driven:dispatcher:global-2 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread akka:event-driven:dispatcher:global-2 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread akka:event-driven:dispatcher:global-15 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread akka:event-driven:dispatcher:global-15 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread akka:event-driven:dispatcher:global-11 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread akka:event-driven:dispatcher:global-11 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread akka:event-driven:dispatcher:global-6 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread akka:event-driven:dispatcher:global-6 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread akka:event-driven:dispatcher:global-14 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread akka:event-driven:dispatcher:global-14 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread akka:event-driven:dispatcher:global-8 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread akka:event-driven:dispatcher:global-8 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread akka:event-driven:dispatcher:global-1 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread akka:event-driven:dispatcher:global-1 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread akka:event-driven:dispatcher:global-7 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread akka:event-driven:dispatcher:global-7 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread akka:event-driven:dispatcher:global-13 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread akka:event-driven:dispatcher:global-13 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread akka:event-driven:dispatcher:global-12 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread akka:event-driven:dispatcher:global-12 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread akka:event-driven:dispatcher:global-9 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread akka:event-driven:dispatcher:global-9 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread akka:event-driven:dispatcher:global-16 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread akka:event-driven:dispatcher:global-16 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread akka:event-driven:dispatcher:global-5 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread akka:event-driven:dispatcher:global-5 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread akka:event-driven:dispatcher:global-3 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread akka:event-driven:dispatcher:global-3 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread akka:event-driven:dispatcher:global-10 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread akka:event-driven:dispatcher:global-10 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread akka:event-driven:dispatcher:global-4 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread akka:event-driven:dispatcher:global-4 exited.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m

@@ -1,0 +1,93 @@
+MysqlWrite start
+MysqlWrite 10000 records. takes:3667ms
+MysqlWrite start
+MysqlWrite 10000 records. takes:2771ms
+MysqlWrite start
+MysqlWrite 10000 records. takes:3501ms
+MysqlWrite start
+MysqlWrite 10000 records. takes:2858ms
+MysqlWrite start
+MysqlWrite 10000 records. takes:2818ms
+MysqlWrite start
+MysqlWrite 10000 records. takes:3514ms
+MysqlWrite start
+MysqlWrite 10000 records. takes:3659ms
+MysqlWrite start
+MysqlWrite 10000 records. takes:3600ms
+MysqlWrite start
+MysqlWrite 10000 records. takes:3617ms
+MysqlWrite start
+MysqlWrite 10000 records. takes:3673ms
+-----------------------
+MysqlRead start
+MysqlRead 10000 records. takes:12622ms
+MysqlRead start
+MysqlRead 10000 records. takes:13333ms
+MysqlRead start
+MysqlRead 10000 records. takes:12666ms
+MysqlRead start
+MysqlRead 10000 records. takes:13351ms
+MysqlRead start
+MysqlRead 10000 records. takes:13473ms
+MysqlRead start
+MysqlRead 10000 records. takes:13119ms
+MysqlRead start
+MysqlRead 10000 records. takes:13281ms
+MysqlRead start
+MysqlRead 10000 records. takes:13521ms
+MysqlRead start
+MysqlRead 10000 records. takes:13345ms
+MysqlRead start
+MysqlRead 10000 records. takes:13289ms
+-----------------------
+OK
+RedisWrite start
+RedisWrite 10000 records. takes:4118ms
+OK
+RedisWrite start
+RedisWrite 10000 records. takes:3965ms
+OK
+RedisWrite start
+RedisWrite 10000 records. takes:4252ms
+OK
+RedisWrite start
+RedisWrite 10000 records. takes:4074ms
+OK
+RedisWrite start
+RedisWrite 10000 records. takes:3172ms
+OK
+RedisWrite start
+RedisWrite 10000 records. takes:4110ms
+OK
+RedisWrite start
+RedisWrite 10000 records. takes:3170ms
+OK
+RedisWrite start
+RedisWrite 10000 records. takes:3723ms
+OK
+RedisWrite start
+RedisWrite 10000 records. takes:4127ms
+OK
+RedisWrite start
+RedisWrite 10000 records. takes:3128ms
+-----------------------
+RedisRead start
+RedisRead 10000 records. takes:5718ms
+RedisRead start
+RedisRead 10000 records. takes:5790ms
+RedisRead start
+RedisRead 10000 records. takes:5296ms
+RedisRead start
+RedisRead 10000 records. takes:5379ms
+RedisRead start
+RedisRead 10000 records. takes:5616ms
+RedisRead start
+RedisRead 10000 records. takes:5545ms
+RedisRead start
+RedisRead 10000 records. takes:5640ms
+RedisRead start
+RedisRead 10000 records. takes:5668ms
+RedisRead start
+RedisRead 10000 records. takes:5470ms
+RedisRead start
+RedisRead 10000 records. takes:5367ms
