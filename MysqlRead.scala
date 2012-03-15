@@ -11,7 +11,7 @@ object MysqlRead {
     val latch = new CountDownLatch(max)
     val a = Actor.actorOf(new MysqlRead(latch))
     a.start()
-    for (i <- 1 to 10000) {
+    for (i <- 1 to max) {
       val num = scala.util.Random.nextInt(max -1) + 1
       a ! "user" + num
     }

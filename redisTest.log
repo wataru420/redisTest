@@ -1,93 +1,93 @@
 MysqlWrite start
-MysqlWrite 10000 records. takes:3667ms
+MysqlWrite 100000 records. takes:12080ms
 MysqlWrite start
-MysqlWrite 10000 records. takes:2771ms
+MysqlWrite 100000 records. takes:12061ms
 MysqlWrite start
-MysqlWrite 10000 records. takes:3501ms
+MysqlWrite 100000 records. takes:12171ms
 MysqlWrite start
-MysqlWrite 10000 records. takes:2858ms
+MysqlWrite 100000 records. takes:12054ms
 MysqlWrite start
-MysqlWrite 10000 records. takes:2818ms
+MysqlWrite 100000 records. takes:11793ms
 MysqlWrite start
-MysqlWrite 10000 records. takes:3514ms
+MysqlWrite 100000 records. takes:12473ms
 MysqlWrite start
-MysqlWrite 10000 records. takes:3659ms
+MysqlWrite 100000 records. takes:11937ms
 MysqlWrite start
-MysqlWrite 10000 records. takes:3600ms
+MysqlWrite 100000 records. takes:12008ms
 MysqlWrite start
-MysqlWrite 10000 records. takes:3617ms
+MysqlWrite 100000 records. takes:12017ms
 MysqlWrite start
-MysqlWrite 10000 records. takes:3673ms
+MysqlWrite 100000 records. takes:11919ms
 -----------------------
 MysqlRead start
-MysqlRead 10000 records. takes:12622ms
+MysqlRead 100000 records. takes:910331ms
 MysqlRead start
-MysqlRead 10000 records. takes:13333ms
+MysqlRead 100000 records. takes:918647ms
 MysqlRead start
-MysqlRead 10000 records. takes:12666ms
+MysqlRead 100000 records. takes:918561ms
 MysqlRead start
-MysqlRead 10000 records. takes:13351ms
+MysqlRead 100000 records. takes:910602ms
 MysqlRead start
-MysqlRead 10000 records. takes:13473ms
+MysqlRead 100000 records. takes:917728ms
 MysqlRead start
-MysqlRead 10000 records. takes:13119ms
+MysqlRead 100000 records. takes:916124ms
 MysqlRead start
-MysqlRead 10000 records. takes:13281ms
+MysqlRead 100000 records. takes:909503ms
 MysqlRead start
-MysqlRead 10000 records. takes:13521ms
+MysqlRead 100000 records. takes:917050ms
 MysqlRead start
-MysqlRead 10000 records. takes:13345ms
+MysqlRead 100000 records. takes:917383ms
 MysqlRead start
-MysqlRead 10000 records. takes:13289ms
+MysqlRead 100000 records. takes:909949ms
 -----------------------
 OK
 RedisWrite start
-RedisWrite 10000 records. takes:4118ms
+RedisWrite 100000 records. takes:10581ms
 OK
 RedisWrite start
-RedisWrite 10000 records. takes:3965ms
+RedisWrite 100000 records. takes:10658ms
 OK
 RedisWrite start
-RedisWrite 10000 records. takes:4252ms
+RedisWrite 100000 records. takes:10519ms
 OK
 RedisWrite start
-RedisWrite 10000 records. takes:4074ms
+RedisWrite 100000 records. takes:10791ms
 OK
 RedisWrite start
-RedisWrite 10000 records. takes:3172ms
+RedisWrite 100000 records. takes:10571ms
 OK
 RedisWrite start
-RedisWrite 10000 records. takes:4110ms
+RedisWrite 100000 records. takes:10590ms
 OK
 RedisWrite start
-RedisWrite 10000 records. takes:3170ms
+RedisWrite 100000 records. takes:10890ms
 OK
 RedisWrite start
-RedisWrite 10000 records. takes:3723ms
+RedisWrite 100000 records. takes:10524ms
 OK
 RedisWrite start
-RedisWrite 10000 records. takes:4127ms
+RedisWrite 100000 records. takes:10658ms
 OK
 RedisWrite start
-RedisWrite 10000 records. takes:3128ms
+RedisWrite 100000 records. takes:10495ms
 -----------------------
 RedisRead start
-RedisRead 10000 records. takes:5718ms
+RedisRead 100000 records. takes:480254ms
 RedisRead start
-RedisRead 10000 records. takes:5790ms
+RedisRead 100000 records. takes:480016ms
 RedisRead start
-RedisRead 10000 records. takes:5296ms
+RedisRead 100000 records. takes:478447ms
 RedisRead start
-RedisRead 10000 records. takes:5379ms
+RedisRead 100000 records. takes:480574ms
 RedisRead start
-RedisRead 10000 records. takes:5616ms
+RedisRead 100000 records. takes:478681ms
 RedisRead start
-RedisRead 10000 records. takes:5545ms
+RedisRead 100000 records. takes:479560ms
 RedisRead start
-RedisRead 10000 records. takes:5640ms
+RedisRead 100000 records. takes:480081ms
 RedisRead start
-RedisRead 10000 records. takes:5668ms
+RedisRead 100000 records. takes:480529ms
 RedisRead start
-RedisRead 10000 records. takes:5470ms
+RedisRead 100000 records. takes:479809ms
 RedisRead start
-RedisRead 10000 records. takes:5367ms
+RedisRead 100000 records. takes:478096ms

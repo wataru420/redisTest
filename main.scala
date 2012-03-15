@@ -1,7 +1,7 @@
 object Main { 
   
   def main(args: Array[String]): Unit = {
-    val max = 10000
+    val max = 100000
     require(0 < args.length, "select job!!")
     for (a <- args) {
       val start = System.currentTimeMillis
@@ -9,7 +9,6 @@ object Main {
       a match {
         case "MysqlWrite" => MysqlWrite.run(max)
         case "RedisWrite" => RedisWrite.run(max)
-        case "RedisLoadFile" => RedisLoadFile.run
         case "MysqlRead" => MysqlRead.run(max)
         case "RedisRead" => RedisRead.run(max)
         case x => println(x + " is unknown job")
